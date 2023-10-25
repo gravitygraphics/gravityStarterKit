@@ -1,4 +1,4 @@
-# gravityStarterKit
+# Gravity Graphics Starter Kit
 Download start.html in this repository to start coding with Gravity Graphics.
 
 ## Using Gravity B.A.S.I.C
