@@ -16,9 +16,7 @@ How to include Gravity BASIC into your html page:
 
 </div>
 <script src="https://gravitygraphics.github.io/cdn/GravityBasic.min.js"></script>
-<!--script src="./core/GravityGraphics/GravityBasic.js"></script-->
 <script>
-document.addEventListener('DOMContentLoaded', start);
 
 function start() {
 	fullscreen();
